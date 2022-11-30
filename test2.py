@@ -1,1 +1,0 @@
-def arithmetic_arranger(problems, solver = False):
