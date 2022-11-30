@@ -4,25 +4,8 @@
 The purpose of this project was to create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function has an optional second argument that when set to 'True' will display the answers. 
 
 ## Example
-Function Call:
- arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
+<a href = "https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter">Click Here</a> to see examples on the freeCodeCamp instruction page. 
 
-Output:
-
-   32      3801      45      123
-+ 698    -    2    + 43    +  49
------    ------    ----    -----
-
-Function Call:
- arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
- 
-Output:
-
-  32         1      9999      523
-+  8    - 3801    + 9999    -  49
-----    ------    ------    -----
-  40     -3800     19998      474
-  
   ## Rules
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
 <ul>
