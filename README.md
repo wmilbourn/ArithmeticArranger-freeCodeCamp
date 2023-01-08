@@ -1,5 +1,5 @@
 # ArithmeticArranger.freeCodeCamp
- Project 1 in the Scientific Computing with Python certificate from freeCodeCamp.rg
+ Project 1 in the Scientific Computing with Python certificate from freeCodeCamp.org
 
 The purpose of this project was to create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function has an optional second argument that when set to 'True' will display the answers. 
 
